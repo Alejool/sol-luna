@@ -1,0 +1,19 @@
+{
+  "name": "luna-sol",
+  "version": "1.0.0",
+  "description": "sass, js, ",
+  "main": "index.html",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.62.1"
+  },
+  "scripts": {
+    "sass": "sass --watch src/scss/app.scss:build/css/style.css"
+  },
+  "keywords": [
+    "sasss"
+  ],  
+  "author": "alejandor olarte",
+  "license": "ISC"
+}
